@@ -1,0 +1,138 @@
+﻿  AnimatedRect.cpp
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\AnimatedRect.cpp(75): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\AnimatedRect.cpp(76): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  App.cpp
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.h(39): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.h(41): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.h(42): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.h(44): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.h(45): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.h(80): warning C4305: 'initializing': truncation from 'double' to 'float'
+  app_main.cpp
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.h(39): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.h(41): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.h(42): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.h(44): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.h(45): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.h(80): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Game.cpp
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.h(39): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.h(41): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.h(42): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.h(44): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.h(45): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.h(80): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(22): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(23): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(24): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(26): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(27): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(33): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(45): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(47): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(48): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(50): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(51): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(52): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(53): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(71): warning C4305: '=': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(72): warning C4305: '=': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(158): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(158): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(161): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(161): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(205): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(243): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(245): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(250): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(252): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(263): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(265): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(270): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(272): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(284): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(287): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(288): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(291): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(291): warning C4804: '<=': unsafe use of type 'bool' in operation
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(301): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(304): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(305): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(308): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(308): warning C4804: '<=': unsafe use of type 'bool' in operation
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(317): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(320): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(321): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(324): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(324): warning C4804: '<=': unsafe use of type 'bool' in operation
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(346): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(349): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(354): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(357): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(369): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(372): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(377): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(380): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(395): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(402): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(419): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(421): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(430): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(432): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(444): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(451): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(462): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\Game.cpp(505): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  GlutApp.cpp
+  Rect.cpp
+  RightTriangle.cpp
+  TexRect.cpp
+  TextBox.cpp
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\TextBox.cpp(29): warning C4018: '<': signed/unsigned mismatch
+  Timer.cpp
+  Generating Code...
+  image_DXT.c
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\windows\image_DXT.c(92): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+  image_helper.c
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\windows\image_helper.c(325): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\windows\image_helper.c(366): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\windows\image_helper.c(373): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\windows\image_helper.c(415): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\windows\image_helper.c(422): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  SOIL.c
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\windows\SOIL.c(1719): warning C4018: '<=': signed/unsigned mismatch
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\windows\SOIL.c(1729): warning C4018: '<': signed/unsigned mismatch
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\windows\SOIL.c(1841): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+  stb_image_aug.c
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\windows\stb_image_aug.c(177): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\windows\stb_image_aug.c(251): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\windows\stb_image_aug.c(303): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\windows\stb_image_aug.c(1557): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\windows\stb_image_aug.c(2394): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\windows\stb_image_aug.c(2709): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\windows\stb_image_aug.c(2995): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\windows\stb_image_aug.c(3209): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\windows\stb_image_aug.c(3548): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\windows\stb_image_aug.c(3644): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\windows\stbi_DDS_aug_c.h(362): warning C4018: '>': signed/unsigned mismatch
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\windows\stbi_DDS_aug_c.h(366): warning C4018: '>': signed/unsigned mismatch
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\windows\stbi_DDS_aug_c.h(390): warning C4018: '<': signed/unsigned mismatch
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\windows\stbi_DDS_aug_c.h(427): warning C4018: '<': signed/unsigned mismatch
+D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\windows\stbi_DDS_aug_c.h(498): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+  Generating Code...
+AnimatedRect.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  glutapp.vcxproj -> D:\Schoolwork\CSE165\Jam2\JAM-1ed1a45d38bd6753b7d9c0ddd11e27143cb04d74\JAM\visualc15\obj\glutapp_Debug\glutapp.exe
